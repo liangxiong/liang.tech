@@ -124,6 +124,9 @@
 
 - [800万日访客、20万RPS5个9可用性架构](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=200097850&idx=1&sn=1851f0b649abae8993838b11b1248596)
 
+- [滴滴全链路压测解决之道](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486965&idx=1&sn=6307de0043d701ec27e81a1fdcf914bf)
+
+
 ## 高并发
 
 ### 高并发 日常总结

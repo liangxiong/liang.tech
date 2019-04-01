@@ -126,12 +126,3 @@
 - [高并发的核心技术 - 幂等的实现方案](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485646&idx=1&sn=268286c1d930d3eb3bb102275d8940d7)
 
 - [百万并发下的Nginx性能优化之道](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484774&idx=1&sn=e588f5925213c115a13deac2be300e68)
-
-
-# 垂直业务
-## 评论系统
-- [新浪新闻评论系统的架构演进和经验总结](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=203276850&idx=1&sn=444a911a512201c94fc16134e77e2d2e)
-
-
-## 搜索系统
-- [有赞搜索系统的 3 次架构演进](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485466&idx=1&sn=129b46515c713611bf62c9dc0a6457a5)

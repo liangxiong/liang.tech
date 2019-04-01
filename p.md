@@ -3,6 +3,13 @@
 - [JAVA核心知识点整](https://github.com/liangxiong/liang.tech/blob/master/java/JAVA核心知识点整理.pdf)
 
 
+### JVM 相关
+
+#### JVM 日常总结
+- [JVM Code Cache空间不足，导致服务性能变慢](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485853&idx=1&sn=3d52c9ac77fc237b55676ad0ad7c9f28)
+
+
+
 # 基础
 ## 算法
 - [程序员必须知道的10大基础实用算法及其讲解](https://mp.weixin.qq.com/s?__biz=MjM5MzMyNzg0MA==&mid=200217851&idx=2&sn=1991c3ce2c01ae9c7c40234de61be830)
@@ -48,6 +55,7 @@
 - [58沈剑：做好你的服务拆分](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489294&idx=1&sn=b5020776862ebd3c13763ff5d787a49d)
 
 
+
 # 架构
 ## 高可用
 
@@ -56,12 +64,12 @@
 
 - [800万日访客、20万RPS5个9可用性架构](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=200097850&idx=1&sn=1851f0b649abae8993838b11b1248596)
 
+## 高并发
+
+### 高并发 日常总结
+- [高并发的核心技术 - 幂等的实现方案](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485646&idx=1&sn=268286c1d930d3eb3bb102275d8940d7)
+
 
 # 垂直业务
 ## 评论系统
 - [新浪新闻评论系统的架构演进和经验总结](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=203276850&idx=1&sn=444a911a512201c94fc16134e77e2d2e)
-
-
-
-
-# 管理

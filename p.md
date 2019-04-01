@@ -100,8 +100,13 @@
 - [Hystrix系列之ThreadLocal跨线程传递问题
 ](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484515&idx=1&sn=6a9097174aa0e8214db1e167a347ccd2)
 
-####
+#### Hystrix 日常总结
 - [Hystrix的两个bug](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484549&idx=1&sn=24f2b98bf2249832ca8396f705b381a8)
+
+
+### 分布式追踪
+#### 分布式追踪 原理
+- [分布式追踪概念](https://github.com/liangxiong/liang.tech/blob/master/micro_service/trace/0401.md)
 
 
 
@@ -109,7 +114,6 @@
 - [提升你的微服务架构可用性](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489302&idx=1&sn=4e7082ce4aed16e4db7dd402cf4ab0da)
 
 - [58沈剑：做好你的服务拆分](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489294&idx=1&sn=b5020776862ebd3c13763ff5d787a49d)
-
 
 
 # 架构

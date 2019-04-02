@@ -21,10 +21,13 @@
 
 - [CMS学习笔记](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484991&idx=1&sn=872185aa00313d55dfe6ae719add14d0)
 
--[G1学习笔记](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485089&idx=1&sn=77a4940ddc174fa3d076347164062a7e)
+- [G1学习笔记](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485089&idx=1&sn=77a4940ddc174fa3d076347164062a7e)
 
 - [Java 内存泄漏排查过程](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485100&idx=1&sn=c98df81d8ce7518f56f2543c1b426c14)
 
+- [CMS到G1的调优实战，实现毫秒级响应](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485858&idx=1&sn=dad86c9459224bc8a8a2721af2afe3bd)
+
+- [JVM是否越大越好](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484830&idx=1&sn=78b4d1d5fc9d19ec40368707eb1a4216)
 
 
 
@@ -39,6 +42,9 @@
 
 ## 框架原理
 - [开源框架的扩展机制一般实现](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484695&idx=1&sn=b1b07370e72d8a8a5e16c2d689fbe6de)
+
+## 手写框架
+- [设计一个可拔插的 IOC 容器](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484751&idx=1&sn=b5dbf4e66c4cbe3171f67f4d242a7611)
 
 # 数据库
 ## mysqL
@@ -69,12 +75,22 @@
 - 待补充
 
 # 消息中间件
+
+## 消息中间件 原理
+- [消息中间件的数据如何保证不丢失](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484733&idx=1&sn=8b02b440f6d9a02db42dd5ce264c9358)
+
 ## Kafka
 ### Kafka原理
 - [Kafa优秀的本质](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484498&idx=1&sn=a0b94d5696d5654b67b782ab61a8d7f5)
+- [优雅的使用Kafka生产者](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484903&idx=1&sn=fc9a366a04ea54c4035c675f4e3305f4)
+
 
 
 # 缓存
+
+## 缓存 日常总结
+- [关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484884&idx=1&sn=ceb798b6e8ef0ee608a992385f7d8568)
+
 ##  REDIS
 
 ### REDIS 结构原理
@@ -117,6 +133,13 @@
 
 
 # 架构
+## 名人笔记
+
+- [石杉2018架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484866&idx=2&sn=f35d12b68b349105df44313cb397a572)
+
+
+- [石杉2019架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484844&idx=2&sn=c0f2751ee2c298180957f9081c218233)
+
 ## 高可用
 
 ### 高可用 日常总结
@@ -133,3 +156,5 @@
 - [高并发的核心技术 - 幂等的实现方案](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485646&idx=1&sn=268286c1d930d3eb3bb102275d8940d7)
 
 - [百万并发下的Nginx性能优化之道](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484774&idx=1&sn=e588f5925213c115a13deac2be300e68)
+
+- [支持百万连接的高并发架构](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484737&idx=1&sn=205381ed9ba9e31428164274a1a49fa3)

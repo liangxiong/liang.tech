@@ -1,4 +1,12 @@
 # 垂直业务
+
+## 支付网关
+- [开源支付网关](https://github.com/jigsaw-projects/jigsaw-payment)
+
+## 消息推送系统
+- [百万级的消息推送系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484763&idx=1&sn=955cbb84415945d9daed54675f143d67)
+
+
 ## 评论系统
 - [新浪新闻评论系统的架构演进和经验总结](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=203276850&idx=1&sn=444a911a512201c94fc16134e77e2d2e)
 

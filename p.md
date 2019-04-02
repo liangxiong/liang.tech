@@ -1,11 +1,14 @@
 # 语言
 ## JAVA
-- [JAVA核心知识点整](https://github.com/liangxiong/liang.tech/blob/master/java/JAVA核心知识点整理.pdf)
+- [JAVA核心知识点整理](https://github.com/liangxiong/liang.tech/blob/master/java/JAVA核心知识点整理.pdf)
 
 
 ### JAVA 原理
 - [java随机数的原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484717&idx=1&sn=2c49b618b24f3fb92847313e5dfad957)
 
+
+### Java 8
+- [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
 
 
 ### JVM 相关
@@ -34,8 +37,6 @@
 # 基础
 ## 算法
 - [程序员必须知道的10大基础实用算法及其讲解](https://mp.weixin.qq.com/s?__biz=MjM5MzMyNzg0MA==&mid=200217851&idx=2&sn=1991c3ce2c01ae9c7c40234de61be830)
-
-
 
 
 # 框架
@@ -79,10 +80,19 @@
 ## 消息中间件 原理
 - [消息中间件的数据如何保证不丢失](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484733&idx=1&sn=8b02b440f6d9a02db42dd5ce264c9358)
 
+- [消息中间件如何实现高并发写入](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484700&idx=1&sn=fbfdb57ea53882828e4e3bd0b3b61947)
+
+
+
+
 ## Kafka
 ### Kafka原理
 - [Kafa优秀的本质](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484498&idx=1&sn=a0b94d5696d5654b67b782ab61a8d7f5)
 - [优雅的使用Kafka生产者](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484903&idx=1&sn=fc9a366a04ea54c4035c675f4e3305f4)
+- [kafka存储](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798146&idx=1&sn=0c9fcf489a6b3d479a12718e36205012)
+
+- [Kafka的零拷贝](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798164&idx=1&sn=9715585f301aabd7e0e7f553bb10d479)
+
 
 
 

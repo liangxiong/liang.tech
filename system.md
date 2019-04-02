@@ -1,5 +1,5 @@
 # 系列文章
-## 只是图谱
+## 知识图谱
 - [知识扫盲](https://github.com/doocs/advanced-java)
 
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)

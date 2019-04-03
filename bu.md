@@ -15,3 +15,10 @@
 
 ## 舆情
 - [唯品会舆情监控系统](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MzQ1MQ==&mid=2651040066&idx=1&sn=96a1d80d2ad364c8373c8727d4e5961d)
+
+
+## 运营平台
+- [稳定、灵活、高效，美团点评运营配置平台的设计与实践之道](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651011015&idx=1&sn=0194d0b8a5d7e5c045f82c458e4c39a9）
+
+- [运满满运营平台的架构升级之路
+](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651014647&idx=2&sn=8516eab38642d09faacf7a402f68fa01)

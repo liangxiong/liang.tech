@@ -1,9 +1,9 @@
 # 语言
-## JAVA
+## Java
 - [JAVA核心知识点整理](https://github.com/liangxiong/liang.tech/blob/master/java/JAVA核心知识点整理.pdf)
 
 
-### JAVA 原理
+### Java 原理
 - [java随机数的原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484717&idx=1&sn=2c49b618b24f3fb92847313e5dfad957)
 
 
@@ -11,7 +11,15 @@
 - [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
 
 
-### JVM 相关
+
+### Jvm 相关
+
+#### Jvm 工具
+- [Arthas官网](https://github.com/alibaba/arthas)
+- [Arthas](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486979&idx=1&sn=ae12850e5bfd11824f46bbb919fba3fc)
+
+#### JVM 底层原理
+- [数据区 ](https://www.jianshu.com/p/3635b80d7783?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-timeline&from=timeline&isappinstalled=0)
 
 #### JVM 日常总结
 - [JVM Code Cache空间不足，导致服务性能变慢](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485853&idx=1&sn=3d52c9ac77fc237b55676ad0ad7c9f28)
@@ -32,6 +40,7 @@
 
 - [JVM是否越大越好](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484830&idx=1&sn=78b4d1d5fc9d19ec40368707eb1a4216)
 
+- [Hbase Gc调优实践](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658358089&idx=1&sn=42c9caac6e58758c90006b603655d30a)
 
 
 # 基础
@@ -114,8 +123,13 @@
 
 # 微服务
 
-## 微服务熔断器组件
+## 微服务注册组件
+### 思想
+- [需要注册的缘由](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486965&idx=2&sn=dbcc8099f63131fc73c03c7d3c06b786)
 
+
+
+## 微服务熔断器组件
 ### Hystrix
 #### Hystrix 原理
 - [Hystrix系列之熔断器的实现原理

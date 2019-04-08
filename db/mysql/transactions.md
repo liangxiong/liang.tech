@@ -1,0 +1,92 @@
+# 事务
+## 四大特写
+- ACID
+  - Atomicity 原子性
+  - Consistency 一致性
+  - Lsolation 隔离性
+  - Durability  持久性
+
+## 隔离级别
+### 问题
+  - 脏读 dirty read
+    - 读取到未提交事务的数据，并且进行了操作
+
+  - 不可重复读 non repeatable read
+    - 在一个事物内，两次相同查询，同一条数据不同值
+    - 读取到其他事务已经提交的更改数据（修改，删除）
+
+  - 幻读 phantom read  
+    - 读取到其他事务已经提交的新增数据
+    - 指标：条数不同
+
+### 定义
+- read uncommitted 读未提交：
+  - 一个事务未提交，它的变更能被其他事物看到
+  - 实现：直接返回记录的最新值
+  - 问题：脏读，不可重复读，幻读
+
+- read committed 读已提交：
+  - 一个事务提交之后，他的变更能被其他事物看到
+  - 实现：每个sql开始执行的时候创建
+  - 问题：不可重复读，幻读    
+
+- repeatable read 可重复读：
+  - 一个事务执行过程中看到数据，总是跟这个事物在启动时看到的数据是一致
+  - 问题：其避免了脏读和不可重复读问题，但幻读依然存在
+  - 实现：开启事物，创建视图
+  - 场景：
+      - 查询当前额度，开启事物后不会随着交易记录变化而变化
+  - 问题：幻读
+
+- serializable 串行化：
+  - 事务串行执行
+  - “写” 会加 “写锁”，“读”会加“读锁”
+
+### 隔离级别实现
+- 变更 数据时候 会在回滚日志中记录 数据的版本
+  - 系统判定历史版本的数据，没有read view 会用，就清理掉
+- 查询时候，启动 read view
+
+
+### 测试
+- 过程：
+  - 开启2个sql 控制台
+  - 在事物操作的控制台进行增 修 删操作
+  - 查询控制台设置不同隔离级别，查看 事物操作控制台的变更是否可以见
+
+- 读未提交
+set session transaction isolation level read uncommitted;
+  - 未提交事务
+  	- 插：可见
+  	- 改：可见
+  	- 删：可见
+
+- 读已提交
+set session transaction isolation level read committed;
+  - 未提交事务
+  	- 插：不可见
+  	- 改：不可见
+  	- 删：不可见
+  - 提交事务：
+  	- 插：可见
+  	- 改：可见
+  	- 删：可见
+
+
+- 可重复读
+set session transaction isolation level repeatable read;
+  - 未提交事务
+  	- 插：不可见
+  	- 改：不可见
+  	- 删：不可见
+
+  - 提交事务：
+  	- 插：不可见
+  	- 改：不可见
+  	- 删：不可见
+
+- 序列化
+set session transaction isolation level serializable;
+  - 插：不可见
+  - 改：不可见
+  - 删：不可见

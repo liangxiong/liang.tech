@@ -58,6 +58,8 @@
 
 # 数据库
 ## mysqL
+### mysql 基本知识
+- [事物 隔离级别](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/transactions.md)
 
 
 ## 分库分表
@@ -122,6 +124,13 @@
 
 
 # 微服务
+
+## 协调器
+### zookeeper
+#### 原理
+- [zookeeper功能特性](https://github.com/liangxiong/liang.tech/blob/master/micro_service/zookeeper/zookeeper_index.md)
+
+
 
 ## 微服务注册组件
 ### 思想

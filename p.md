@@ -94,8 +94,6 @@
 - [消息中间件如何实现高并发写入](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484700&idx=1&sn=fbfdb57ea53882828e4e3bd0b3b61947)
 
 
-
-
 ## Kafka
 ### Kafka原理
 - [Kafa优秀的本质](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484498&idx=1&sn=a0b94d5696d5654b67b782ab61a8d7f5)
@@ -130,7 +128,7 @@
 #### 原理
 - [zookeeper功能特性](https://github.com/liangxiong/liang.tech/blob/master/micro_service/zookeeper/zookeeper_index.md)
 
-
+- [Basic Paxos](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515948&idx=1&sn=e6b2dd3f3a7ef0b93bc9dc7d2bf87a9e)
 
 ## 微服务注册组件
 ### 思想

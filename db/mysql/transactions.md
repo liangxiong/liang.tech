@@ -65,8 +65,8 @@ set session transaction isolation level read uncommitted;
 set session transaction isolation level read committed;
   - 未提交事务
   	- 插：不可见
-  	- 改：不可见
-  	- 删：不可见
+  	- 改：不可见Â
+  	- 删：不可
   - 提交事务：
   	- 插：可见
   	- 改：可见
@@ -78,7 +78,7 @@ set session transaction isolation level repeatable read;
   - 未提交事务
   	- 插：不可见
   	- 改：不可见
-  	- 删：不可见
+  	- 删：不可见Â
 
   - 提交事务：
   	- 插：不可见

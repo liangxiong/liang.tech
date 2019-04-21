@@ -1,6 +1,10 @@
 
 # 管理
 
+## 学习总结
+- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/manage/2019/0421.md)
+
+
 ## 领导力管理
 - [面对批量时需要避免的13种态度](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/criticize_reaction.md)
 

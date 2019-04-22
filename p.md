@@ -6,10 +6,16 @@
 ### Java 原理
 - [java随机数的原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484717&idx=1&sn=2c49b618b24f3fb92847313e5dfad957)
 
+- [为什么wait()方法要放在同步块中](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485915&idx=1&sn=fb07c7334c3ce3ed7800172c574aae10)
+
+
+### Java并发包
+- [Java 并发精品合集](https://mp.weixin.qq.com/s?__biz=MzI5NTYwNDQxNA==&mid=2247484032&idx=1&sn=39eb4c063e4ebab17681d776a81ba844&chksm=ec505b51db27d2473b195b27c5774941e9c5c67c3b0bec7038880be9fdf8477a33b5871a734e&scene=21)
+
+- [直接撸ArrayBlockingQueue](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484984&idx=1&sn=0d06df51824fff38ff678030aa467a63)
 
 ### Java 8
 - [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
-
 
 
 ### Jvm 相关
@@ -42,10 +48,16 @@
 
 - [Hbase Gc调优实践](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658358089&idx=1&sn=42c9caac6e58758c90006b603655d30a)
 
+- [高吞吐、低延迟 Java 应用的 GC 优化实践](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247486001&idx=1&sn=1117c29a4cc6cc4a78e590bf6f6df8d6)
 
 # 基础
 ## 算法
 - [程序员必须知道的10大基础实用算法及其讲解](https://mp.weixin.qq.com/s?__biz=MjM5MzMyNzg0MA==&mid=200217851&idx=2&sn=1991c3ce2c01ae9c7c40234de61be830)
+
+## 分布式：
+### 经验总结
+- [持续可用与CAP理论](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031878&idx=1&sn=c7d1ff19b2bee7d76862d45e3bf9fbcf)
+
 
 
 # 框架
@@ -67,6 +79,7 @@
 ### 分库分表 日常总结
 - [分库分表就能无限扩容吗](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486393&idx=1&sn=badba03f76c08a485c9b536b85814a89)
 
+- [生产中的【分表】踩坑经历](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485052&idx=1&sn=53f50a1ae3a97c7c23c859948743e03f)
 
 ### mysql 日常总结
 - [MySQL两千万数据的大表优化解决过程](https://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247490617&idx=1&sn=d4de94a4647c9b0f725fb56abf312b8a)
@@ -93,35 +106,40 @@
 
 - [消息中间件如何实现高并发写入](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484700&idx=1&sn=fbfdb57ea53882828e4e3bd0b3b61947)
 
+### 消息中间件总结
+- [设计一个消息中间件，如何将其网络通信性能优化10倍以上](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485056&idx=1&sn=ac619aeaaa78c995b124803bdcdd8359)
+
+
+##消息案例总结：
+- [金融行业消息队列选型及实践
+](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031391&idx=1&sn=f7707a4be55775b8fb4411cc5b4a91b1)
+
+## RocketMQ
+
+### 总结
+- [RocketMQ 在多 IDC 场景以及多隔离区场景下的实践
+](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031628&idx=1&sn=6d1213b15eb3352a18fe419a17f5a0c1)
+
 
 ## Kafka
 ### Kafka原理
 - [Kafa优秀的本质](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484498&idx=1&sn=a0b94d5696d5654b67b782ab61a8d7f5)
+
 - [优雅的使用Kafka生产者](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484903&idx=1&sn=fc9a366a04ea54c4035c675f4e3305f4)
+
 - [kafka存储](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798146&idx=1&sn=0c9fcf489a6b3d479a12718e36205012)
 
 - [Kafka的零拷贝](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798164&idx=1&sn=9715585f301aabd7e0e7f553bb10d479)
 
-
-
-
-# 缓存
-
-## 缓存 日常总结
-- [关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484884&idx=1&sn=ceb798b6e8ef0ee608a992385f7d8568)
-
-##  REDIS
-
-### REDIS 结构原理
-- [Redis的3个高级数据结构](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484486&idx=1&sn=ad858b953ff16a524cd3d824ea24ca01)
-
-- [Redis 过期策略及实现原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485505&idx=1&sn=caccb829eca67a150c76a343945cafd5)
-
-### REDIS 业务架构实战
-- [Redis在京东金融的设计与实践](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489296&idx=1&sn=c6d48dac5722d7de14aa2eb6d94d5c06)
-
+- [为什么Kafka不支持读写分离](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485005&idx=2&sn=2b53b5200ae939b316cc0d2cec1c6987)
 
 # 微服务
+
+## 网关
+
+### 网关日常总结
+-[架构修炼之道 | 一个传统网关系统有几种 “死” 法
+](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031833&idx=1&sn=5c26363e02c2a500383f5396edad3e8b)
 
 ## 协调器
 ### zookeeper
@@ -133,7 +151,6 @@
 ## 微服务注册组件
 ### 思想
 - [需要注册的缘由](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486965&idx=2&sn=dbcc8099f63131fc73c03c7d3c06b786)
-
 
 
 ## 微服务熔断器组件
@@ -162,6 +179,10 @@
 
 - [58沈剑：做好你的服务拆分](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489294&idx=1&sn=b5020776862ebd3c13763ff5d787a49d)
 
+- [虎牙直播的微服务](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031410&idx=1&sn=11b5b2f0db5816fc0fc230ab69214395)
+
+- [Dubbo实践，演进及未来规划](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031168&idx=1&sn=9c59aa42d36d1f430e98199da707a4b9)
+
 
 # 架构
 ## 名人笔记
@@ -171,6 +192,11 @@
 
 - [石杉2019架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484844&idx=2&sn=c0f2751ee2c298180957f9081c218233)
 
+- [行癫：最详解密阿里云顶层设计和底层逻辑](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031766&idx=1&sn=3ec5cdbe16cee006e590fb84296c537b)
+
+- [包银消费CTO汤向军：消费金融大数据风控架构与实践](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031617&idx=1&sn=13f9fb55ce750d92f73b338a74eb4c0f)
+
+
 ## 高可用
 
 ### 高可用 日常总结
@@ -179,6 +205,8 @@
 - [800万日访客、20万RPS5个9可用性架构](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=200097850&idx=1&sn=1851f0b649abae8993838b11b1248596)
 
 - [滴滴全链路压测解决之道](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486965&idx=1&sn=6307de0043d701ec27e81a1fdcf914bf)
+
+- [亿级Web 系统的容错性实践](https://mp.weixin.qq.com/s?__biz=MzI5NTYwNDQxNA==&mid=2247484902&idx=1&sn=fa8eaab8d2c2279eab85a88332cf1d4e)
 
 
 ## 高并发

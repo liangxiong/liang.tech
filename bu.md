@@ -1,7 +1,16 @@
 # 垂直业务
 
-## 支付网关
+## 支付
 - [开源支付网关](https://github.com/jigsaw-projects/jigsaw-payment)
+
+- [支付系统订单模型该如何设计？
+](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031372&idx=1&sn=5d499f7f0d3ab2789c516aa2fbdcab33)
+
+## 电商
+
+### 出行电商
+- [机票垂直搜索引擎之性能优化
+](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031334&idx=1&sn=b80f836354e7415d8b7ebc801fd32cdc)
 
 ## 消息推送系统
 - [百万级的消息推送系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484763&idx=1&sn=955cbb84415945d9daed54675f143d67)

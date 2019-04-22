@@ -4,6 +4,8 @@
 
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
+- [分布式架构知识体系](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031327&idx=1&sn=3946467241dfe912517d39a183cb4dec)
+
 
 ## 各大公司github
 - [阿里巴巴](https://github.com/alibaba)

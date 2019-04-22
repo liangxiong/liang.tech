@@ -4,4 +4,4 @@
 
 
 ## 工程方面：
-- [码出高效 Java开发手册 Easy Coding 读书总结](https://github.com/liangxiong/liang.tech/blob/master/books/java_development_manual/index.md)
+- [码出高效 Java开发手册 Easy Coding 读书总结](https://github.com/liangxiong/liang.tech/blob/master/java/books/java_development_manual/index.md)

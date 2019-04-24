@@ -17,7 +17,7 @@
 - [测试用例在项目中的感受](https://github.com/liangxiong/liang.tech/blob/master/test/tdd.md)
 
 ### 优点
-#### 提示软件质量
+#### 提升软件质量
 - 保障开发质量和程序的鲁棒性
 - 越早发现的缺陷，修复成本越低
 - 三种测试境界：

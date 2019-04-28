@@ -141,6 +141,11 @@
 -[架构修炼之道 | 一个传统网关系统有几种 “死” 法
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031833&idx=1&sn=5c26363e02c2a500383f5396edad3e8b)
 
+## 注册中心
+### SOFARegistry
+#### 介绍
+- [海量数据下的注册中心 - SOFARegistry 架构介绍](https://mp.weixin.qq.com/s/mZo7Dg6gfNqXoetaqgwMww)
+
 ## 协调器
 ### zookeeper
 #### 原理
@@ -182,6 +187,9 @@
 - [虎牙直播的微服务](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031410&idx=1&sn=11b5b2f0db5816fc0fc230ab69214395)
 
 - [Dubbo实践，演进及未来规划](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031168&idx=1&sn=9c59aa42d36d1f430e98199da707a4b9)
+
+- [李林峰讲解微服务治理的技术演进和架构实践](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031921&idx=1&sn=a49148735e167bd0191c9d52d01092c7)
+
 
 
 # 架构

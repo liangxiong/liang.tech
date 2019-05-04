@@ -5,11 +5,18 @@
 如果发现收集文章不真实，会另外写笔记 或从目录中删除
 
 - [技术文章查看](https://github.com/liangxiong/liang.tech/blob/master/p.md)
+  - [java](https://github.com/liangxiong/liang.tech/blob/master/java/index.md)
+  - [数据库](https://github.com/liangxiong/liang.tech/blob/master/db/index.md)
+  - [微服务](https://github.com/liangxiong/liang.tech/blob/master/micro_service/index.md)
+  - [操作系统](https://github.com/liangxiong/liang.tech/blob/master/os/index.md)
   - [网络文章查看](https://github.com/liangxiong/liang.tech/blob/master/net.md)
-  - [小语种文章查看](https://github.com/liangxiong/liang.tech/blob/master/go.md)
+  - [GO语言](https://github.com/liangxiong/liang.tech/blob/master/go/go_index.md)
   - [领域文章查看](https://github.com/liangxiong/liang.tech/blob/master/ddd.md)
 
-- [垂直业务查看](https://github.com/liangxiong/liang.tech/blob/master/bu.md)
+
+- [架构师](https://github.com/liangxiong/liang.tech/blob/master/architect/index.md)
+
+- [垂直业务](https://github.com/liangxiong/liang.tech/blob/master/bu.md)
 
 - [管理文章查看](https://github.com/liangxiong/liang.tech/blob/master/manage.md)
 

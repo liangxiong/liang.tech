@@ -1,5 +1,8 @@
 # 垂直业务
 
+## 通用业务涉及
+- [1万属性，100亿数据，每秒10万吞吐](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651962219&idx=1&sn=30545c7a9f46fa74a61cc09323a6a8c9)
+
 ## 支付
 - [开源支付网关](https://github.com/jigsaw-projects/jigsaw-payment)
 
@@ -11,6 +14,10 @@
 ### 出行电商
 - [机票垂直搜索引擎之性能优化
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031334&idx=1&sn=b80f836354e7415d8b7ebc801fd32cdc)
+
+### 秒杀
+- [秒杀系统流量如何削峰？
+](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487183&idx=1&sn=95cae5a99999a847abb3d88ab80580a7)
 
 ## 消息推送系统
 - [百万级的消息推送系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484763&idx=1&sn=955cbb84415945d9daed54675f143d67)

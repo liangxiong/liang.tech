@@ -2,8 +2,11 @@
 
 ## 网关
 
+
 ### 网关日常总结
--[架构修炼之道 | 一个传统网关系统有几种 “死” 法
+- [微服务架构之 网关](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487206&idx=2&sn=e088fba1d5f3ed617b9fa565e4bcdd76)
+
+- [架构修炼之道 | 一个传统网关系统有几种 “死” 法
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031833&idx=1&sn=5c26363e02c2a500383f5396edad3e8b)
 
 ## 注册中心

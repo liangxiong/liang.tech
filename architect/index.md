@@ -1,4 +1,7 @@
 # 架构
+## 成长之路
+- [从程序员到架构师 - 技能篇](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031962&idx=1&sn=152ee82f446cf41f522475811b4bc129)
+
 ## 名人笔记
 
 - [石杉2018架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484866&idx=2&sn=f35d12b68b349105df44313cb397a572)

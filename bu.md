@@ -1,8 +1,5 @@
 # 垂直业务
 
-## 通用业务涉及
-- [1万属性，100亿数据，每秒10万吞吐](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651962219&idx=1&sn=30545c7a9f46fa74a61cc09323a6a8c9)
-
 ## 支付
 - [开源支付网关](https://github.com/jigsaw-projects/jigsaw-payment)
 

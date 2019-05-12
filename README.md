@@ -14,6 +14,8 @@
   - [领域文章查看](https://github.com/liangxiong/liang.tech/blob/master/ddd.md)
 
 
+- [程序员的职业成长](https://github.com/liangxiong/liang.tech/blob/master/career/index.md)
+
 - [架构师](https://github.com/liangxiong/liang.tech/blob/master/architect/index.md)
 
 - [垂直业务](https://github.com/liangxiong/liang.tech/blob/master/bu.md)

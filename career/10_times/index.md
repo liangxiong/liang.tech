@@ -36,16 +36,22 @@
 - [待总结：需求管理：太多人给你安排任务怎么办？]
 - [待总结：如何用最小的代价做产品？]
 
+### 工作方法
+- [一起练习：手把手带你分解任务](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/task_detail)
+
 ### 向上管理
 - []
 
+### 成为大师
+- [大师级程序员的工作秘笈,拆解任务的重要性](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/work_secret.md)
+
 ### 程序世界的死结
 - [待总结: 解决了很多技术问题，为什么你依赖在”坑”里]
-- [结构化：写文档也是一种学习方式](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/writing_doc.md)
+- [结构化：写文档也是一种学习方式,程序员不愿意写文档的原因](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/writing_doc.md)
 - [待总结: 你真的懂的重构吗？]
 - [你的代码是怎么变混乱的？](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/code_confusion.md)
 - [待总结: 总是说MVC分层架构，但你真的理解分层吗？]
-- [待总结: 先做好DDD再谈微服务把，那只是一种部署形式]
+- [待总结: 先做好DDD再谈微服务吧，那只是一种部署形式]
 - [待总结: 面对遗留系统，你应该这样做]
 - [待总结: 我们应该如何保持竞争力？]
 - [待总结: 如何在实际工作中推行新观念？]
@@ -60,7 +66,10 @@
 - 想象共同体：来源 尤瓦尔·赫拉利的《人类简史》或《未来简史》
 - Eric Ries《精益创业》: 面向不确定性创造新事物的方法论
 - Eric Raymond 《大教堂与集市》
-- Kent Beck 《极限编程解析》《测试驱动开发》《实现模式》
+- Kent Beck
+  -《极限编程解析》
+  - [《测试驱动开发》](https://book.douban.com/subject/1230036/)
+  -《实现模式》
 - 高德纳 《计算机程序设计艺术》
 - 《乔布斯的魔力演讲》
 - Robert Marion

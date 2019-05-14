@@ -50,3 +50,5 @@
 - [Kafka的零拷贝](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798164&idx=1&sn=9715585f301aabd7e0e7f553bb10d479)
 
 - [为什么Kafka不支持读写分离](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485005&idx=2&sn=2b53b5200ae939b316cc0d2cec1c6987)
+
+- [Kafka如何通过精妙的架构设计优化JVM GC问题](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485142&idx=1&sn=cbd1c5f43da7576a6a8fce8a2096b62b)

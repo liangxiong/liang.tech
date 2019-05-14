@@ -16,6 +16,11 @@
 
 - [Random在高并发下的缺陷以及JUC对其的优化](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487149&idx=1&sn=d6ed436d137561bd059a8168c7e8b9d4)
 
+- [读写锁实现](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485156&idx=1&sn=94ab9f77ca3b04c11f666e207616b824)
+
+- [WeakHashMap 垃圾回收原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485184&idx=1&sn=f1fd5932d7dd26396e6e4a9344cf43da)
+
+
 ### Java 8
 - [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
 
@@ -28,6 +33,8 @@
 
 #### JVM 底层原理
 - [数据区 ](https://www.jianshu.com/p/3635b80d7783?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-timeline&from=timeline&isappinstalled=0)
+
+-[垃圾回收原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485185&idx=1&sn=298d1a994b7bf791ddbad5c691a92a53)
 
 - [Lombok使用及原理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487090&idx=1&sn=7dd3dd6a5b950ec3edad6c379147b8e6)
 

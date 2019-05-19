@@ -11,3 +11,9 @@
 - [结构类设计模式](https://github.com/liangxiong/liang.tech/blob/master/career/24_design_pattern/structure.md)
 
 - [行为类设计模式](https://github.com/liangxiong/liang.tech/blob/master/career/24_design_pattern/action.md)
+
+
+## 升级
+- [如何对待开源项目](https://github.com/liangxiong/liang.tech/blob/master/career/upgrade/student_source.md)
+
+- [如何对待开源项目](https://github.com/liangxiong/liang.tech/blob/master/career/upgrade/tdd.md)

@@ -4,10 +4,9 @@
     - 基于需求，需要有哪些用例来测试，
     - 想好了怎么测试，再动手写代码 开发
 - 通过测试来推动开发的进行。在开发阶段，就是结果往后推的过程。
-- 过程，他是一个循环：
-  - 测试用例
-  - 代码
-  - 重构：又需要测试用例
+
+<img src = 'http://res.liang3307.tech/liang.tech/test/res/tdd.png'>
+<br />
 
 - 扩展相关思想：
     - BDD：行为驱动开发，侧重设计
@@ -105,14 +104,16 @@ if C or D then
                 - 我要买西瓜 ： 是否返回了  意图是商品搜索，查询关键字是：西瓜
 
     - 报表结果：
-      - junit 任务执行完，形成的报表
-      - 绿色表示通过的case
-      - 红色表示未覆盖到的代码
+
 
 ### 目标效果：
 - 代码可测试性
 - 代码可重构
 
+### todo:
+- 梳理好 tvtao，tvtaos，tvtaoadmin 的单元测试
+- 用例谁来写：对交付结果，业务和产品 熟悉，理解深刻的人。开发自己写
+
 ### 参考：
 https://en.wikipedia.org/wiki/Test-driven_development
-https://www.atatech.org/articles/98850
+https://www.atajtnw.org/articles/98850

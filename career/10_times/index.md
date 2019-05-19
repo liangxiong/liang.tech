@@ -31,7 +31,7 @@
 
 - [接到确定需求，你要先做哪件事情](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/demand_todo.md)
 
-- [待总结：精益创业：产品经理不靠谱，你该怎么办？]
+- [精益创业：面向不确定需求，如何和产品经理打交道？](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/lean_startup.md)
 - [待总结：程序员也可以 ”砍” 需求吗？]
 - [待总结：需求管理：太多人给你安排任务怎么办？]
 - [待总结：如何用最小的代价做产品？]

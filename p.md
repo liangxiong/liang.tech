@@ -6,6 +6,7 @@
 ### 经验总结
 - [持续可用与CAP理论](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031878&idx=1&sn=c7d1ff19b2bee7d76862d45e3bf9fbcf)
 
+- [如何实现一个TCC分布式事物框架的思考](https://www.bytesoft.org/)
 
 
 # 框架
@@ -24,6 +25,9 @@
 
 - [消息中间件如何实现高并发写入](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484700&idx=1&sn=fbfdb57ea53882828e4e3bd0b3b61947)
 
+- [消息处理失败怎么办](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485221&idx=1&sn=6d6b4e6bfd6eeb1c14ca20fcf586bb8b&chksm=fba6ef26ccd166300aeb23ee504ea2f402a03a917fd3ca72324891ccfb6e8fbd384e2d70a342)
+
+
 ### 消息中间件总结
 - [设计一个消息中间件，如何将其网络通信性能优化10倍以上](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485056&idx=1&sn=ac619aeaaa78c995b124803bdcdd8359)
 
@@ -38,17 +42,7 @@
 - [RocketMQ 在多 IDC 场景以及多隔离区场景下的实践
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031628&idx=1&sn=6d1213b15eb3352a18fe419a17f5a0c1)
 
+## 后端学习
+- [Java后端开发之路] (https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485232&idx=1&sn=fafa6555732080d5493b5c115e4987ab&chksm=fba6ef33ccd166255be4274cb57c0065c82789250bb90148fdb016a4561ed37f24eb389c30be)
 
-## Kafka
-### Kafka原理
-- [Kafa优秀的本质](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484498&idx=1&sn=a0b94d5696d5654b67b782ab61a8d7f5)
-
-- [优雅的使用Kafka生产者](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484903&idx=1&sn=fc9a366a04ea54c4035c675f4e3305f4)
-
-- [kafka存储](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798146&idx=1&sn=0c9fcf489a6b3d479a12718e36205012)
-
-- [Kafka的零拷贝](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798164&idx=1&sn=9715585f301aabd7e0e7f553bb10d479)
-
-- [为什么Kafka不支持读写分离](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485005&idx=2&sn=2b53b5200ae939b316cc0d2cec1c6987)
-
-- [Kafka如何通过精妙的架构设计优化JVM GC问题](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485142&idx=1&sn=cbd1c5f43da7576a6a8fce8a2096b62b)
+- [成为top1%的Java工程师](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483934&idx=1&sn=d96fa043b72ca0971c9faa23dc6b5131&scene=45#wechat_redirect)

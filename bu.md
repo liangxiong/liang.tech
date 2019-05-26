@@ -8,6 +8,10 @@
 
 ## 电商
 
+- [电商平台积分兑换系统](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483978&idx=1&sn=d5daaad4d99c41b51085755a19743d67&scene=45)
+
+- [百万级用户的抽奖系统？](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483959&idx=1&sn=c6b078c77e807cedb3ec639c59025559&scene=45)
+
 ### 出行电商
 - [机票垂直搜索引擎之性能优化
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031334&idx=1&sn=b80f836354e7415d8b7ebc801fd32cdc)

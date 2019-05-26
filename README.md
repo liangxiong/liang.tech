@@ -6,6 +6,7 @@
 
 - [技术文章查看](https://github.com/liangxiong/liang.tech/blob/master/p.md)
   - [java](https://github.com/liangxiong/liang.tech/blob/master/java/index.md)
+  - [大数据](https://github.com/liangxiong/liang.tech/blob/master/big_data/index.md)
   - [数据库](https://github.com/liangxiong/liang.tech/blob/master/db/index.md)
   - [微服务](https://github.com/liangxiong/liang.tech/blob/master/micro_service/index.md)
   - [操作系统](https://github.com/liangxiong/liang.tech/blob/master/os/index.md)

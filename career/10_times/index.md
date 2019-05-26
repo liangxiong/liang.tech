@@ -37,7 +37,7 @@
 - [待总结：如何用最小的代价做产品？]
 
 ### 工作方法
-- [一起练习：手把手带你分解任务](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/task_detail)
+- [一起练习：手把手带你分解任务](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/task_detail.md)
 
 ### 向上管理
 - []

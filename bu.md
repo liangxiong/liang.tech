@@ -12,6 +12,16 @@
 
 - [百万级用户的抽奖系统？](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483959&idx=1&sn=c6b078c77e807cedb3ec639c59025559&scene=45)
 
+### 商品中心
+- [闲鱼亿级商品库中的秒级实时选品](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484387&idx=1&sn=dacb3162759b5dd5ed8ecf52c9162519&chksm=fd54d7f2ca235ee4c8174de91eb5a66992050469207a43c8d6499836ce2b04705e4dad50ce74)
+
+### 搜索
+- [闲鱼 阿里巴巴复杂搜索系统的可靠性优化之路
+](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484372&idx=1&sn=d9ca724a9badff8b75e94b216c7f4a07&chksm=fd54d7c5ca235ed3091931581505cfd57bfd5375b0a0c6f44f18f68a67b947c04633d9234138)
+
+### 用户画像
+- [闲鱼 毫秒级从百亿大表任意维度筛选数据](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484165&idx=1&sn=4653fbfbae890a18ff180eea24fb4734&chksm=fd54d714ca235e02489a3a688becf762257a94cb6bc9eb8229e5f3df4020191c5265eced69e1)
+
 ### 出行电商
 - [机票垂直搜索引擎之性能优化
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031334&idx=1&sn=b80f836354e7415d8b7ebc801fd32cdc)
@@ -20,9 +30,16 @@
 - [秒杀系统流量如何削峰？
 ](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487183&idx=1&sn=95cae5a99999a847abb3d88ab80580a7)
 
+### 胶水语言 做高效的后端开发
+- [闲鱼，我们如何用Dart做高效后端开发](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484507&idx=1&sn=ad99cbfe9b27f3dccefab869e8f28688&chksm=fd54d04aca23595cdf0785e06061bcb995ee5e7572870a49a7b671dda1a8eec9e082d867c228)
+
+
+## 投送系统
+- [闲鱼，活动素材的亿级用户精准投放](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484351&idx=1&sn=5b9a479e2e9aca6dbb38464d25c73a4a&chksm=fd54d7aeca235eb855c42dc5f1445bf72b7942acd3852c84cd908fcf8416c456d3d1d5f0c4bc)
+
+
 ## 消息推送系统
 - [百万级的消息推送系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484763&idx=1&sn=955cbb84415945d9daed54675f143d67)
-
 
 ## 评论系统
 - [新浪新闻评论系统的架构演进和经验总结](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=203276850&idx=1&sn=444a911a512201c94fc16134e77e2d2e)

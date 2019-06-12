@@ -45,4 +45,4 @@
 ## 后端学习
 - [Java后端开发之路] (https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485232&idx=1&sn=fafa6555732080d5493b5c115e4987ab&chksm=fba6ef33ccd166255be4274cb57c0065c82789250bb90148fdb016a4561ed37f24eb389c30be)
 
-- [成为top1%的Java工程师](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483934&idx=1&sn=d96fa043b72ca0971c9faa23dc6b5131&scene=45#wechat_redirect)
+- [成为top1%的Java工程师](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg%3D%3D&mid=2247483934&idx=1&sn=d96fa043b72ca0971c9faa23dc6b5131&scene=45)

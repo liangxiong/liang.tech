@@ -21,6 +21,11 @@
 - [WeakHashMap 垃圾回收原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485184&idx=1&sn=f1fd5932d7dd26396e6e4a9344cf43da)
 
 
+### 网络
+- [基于nginx搭建SocketIO集群
+](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487448&idx=1&sn=4685d2c72f11f85d065bcc4029353709&chksm=9bf4bf6dac83367b37e7a365282fc7845a8a3622a4e5464c39778c06811e0e13f0e8fb3988ea)
+
+
 ### Java 8
 - [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
 
@@ -65,3 +70,13 @@
 - [Hbase Gc调优实践](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658358089&idx=1&sn=42c9caac6e58758c90006b603655d30a)
 
 - [高吞吐、低延迟 Java 应用的 GC 优化实践](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247486001&idx=1&sn=1117c29a4cc6cc4a78e590bf6f6df8d6)
+
+## 框架
+### Mybaits
+#### 实现原理
+
+- [MyBatis 到浅析 Java 动态代理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487429&idx=1&sn=fc27ae265af62e8b58f98e74165f3818&chksm=9bf4bf70ac83366659c19fea914f567e034b49c8348c39c8ddd0cfe95d0ecd0a187966df9c6a)
+
+
+### Spring Boot
+- [ SpringBoot 自动配置原理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487438&idx=1&sn=6fa3d1e58cb5a5459b44d23123f53f57&chksm=9bf4bf7bac83366d88d453ff54c6512d1cc95131c9975cecff78482e12eb6cc541a40cf5d96f)

@@ -49,6 +49,8 @@
 - [待总结: 解决了很多技术问题，为什么你依赖在”坑”里]
 - [结构化：写文档也是一种学习方式,程序员不愿意写文档的原因](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/writing_doc.md)
 - [待总结: 你真的懂的重构吗？]
+  - [重构的经验](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651938812&idx=1&sn=5b744ace9d179f8275c98be674cddb92&chksm=8d0f30b2ba78b9a49a83c42ae463a0056d16a330501ab8042b7a20c95aebb8fb544c13289696)
+  
 - [你的代码是怎么变混乱的？](https://github.com/liangxiong/liang.tech/blob/master/career/10_times/code_confusion.md)
 - [待总结: 总是说MVC分层架构，但你真的理解分层吗？]
 - [待总结: 先做好DDD再谈微服务吧，那只是一种部署形式]

@@ -1,7 +1,7 @@
 # 大数据
 
 ## 社会意义
--[智能时代，吴军](https://github.com/liangxiong/liang.tech/blob/master/big_data/24_design_pattern/books/wujun_intelligent_age.md)
+- [智能时代，吴军](https://github.com/liangxiong/liang.tech/blob/master/big_data/24_design_pattern/books/wujun_intelligent_age.md)
 
 ## 原理
 - [Hadoop架构原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247483809&idx=1&sn=a8d087c21171bf164fcda389ada9404a&chksm=fba6e9a2ccd160b4e1423c6d142b18849ded66cfdc1477e4d601e44f832d7026b64d80af8db1&scene=21)

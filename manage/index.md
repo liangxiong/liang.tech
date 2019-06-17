@@ -4,11 +4,14 @@
 ## 学习总结
 - [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/manage/2019/0421.md)
 
-- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/persuasiveness.md)
-
 
 ## 领导力管理
-- [面对批量时需要避免的13种态度](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/criticize_reaction.md)
+- [面对批评时需要避免的13种态度](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/criticize_reaction.md)
+
+## 说服力
+- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/persuasiveness.md)
+
+- [如何跟一个孩子谈判](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/child.md)
 
 ## 团队管理
 ### 管理总结

@@ -4,6 +4,9 @@
 ### Dubbo
 -[Dubbo 的原理](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651032242&idx=1&sn=c725c9e996885dce686c53f378de1f52&chksm=8c4c5fb6bb3bd6a0b8b57454026497a7f951b7cade1a0d4488391bd6221c0e0473cab38d556f)
 
+#### 原理
+- [Dubbo 服务启动要过程](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485785&idx=1&sn=d0c9f25b7c470228685d15b98eec14b4&chksm=fba6e15accd1684c2f047ab3f3038ffb9e02b587a1c288a894166bf7a69b90a1fccce3677779)
+
 
 
 ## 网关
@@ -13,6 +16,8 @@
 
 - [架构修炼之道 | 一个传统网关系统有几种 “死” 法
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031833&idx=1&sn=5c26363e02c2a500383f5396edad3e8b)
+
+- [Spring Cloud Zuul ](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485728&idx=1&sn=7d132fd1cb8f2d34d55d884b38010194&chksm=fba6e123ccd168355bb00f25787237f29458811d2c43885830f0a3e27772dce42d795bc4a9cc)
 
 ## 注册中心
 

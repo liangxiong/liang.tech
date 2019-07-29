@@ -4,6 +4,9 @@
 
 
 ### Java 原理
+
+- [hashcode 和 hash 算法](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485906&idx=1&sn=5e4bb668532642b162e718cb2b1a27a4&chksm=fba6e1d1ccd168c70ee342b6640bc7355d472498d766e2ce389e434a4441bd1ac1d065a9407c)
+
 - [java随机数的原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484717&idx=1&sn=2c49b618b24f3fb92847313e5dfad957)
 
 - [为什么wait()方法要放在同步块中](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485915&idx=1&sn=fb07c7334c3ce3ed7800172c574aae10)
@@ -25,6 +28,13 @@
 - [基于nginx搭建SocketIO集群
 ](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487448&idx=1&sn=4685d2c72f11f85d065bcc4029353709&chksm=9bf4bf6dac83367b37e7a365282fc7845a8a3622a4e5464c39778c06811e0e13f0e8fb3988ea)
 
+- [java NIO](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485766&idx=1&sn=eb1358a67aa342fcb9f641d3e9867489&chksm=fba6e145ccd1685317508361e4a3802232fe3765bda8028e04a9c533599aa0858e28f0e329c3)
+
+### 线程
+- [线程池的根上的东西](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485579&idx=1&sn=2a85c8c3edcad6a7d92d92af866ba819&chksm=fba6e088ccd1699e6278d7cd629289843414af5e87658f9e3091814f0221b69b820cf8d378cf)
+
+### 类加载器
+- [JVM类加载机制](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485642&idx=1&sn=14542b61ed71e94732f71ab4956049d4&chksm=fba6e0c9ccd169df1329d12712db786076d1da4aaed6a07dca6d45ef3321d6ac6ab27485ad77)
 
 ### Java 8
 - [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
@@ -70,6 +80,16 @@
 - [Hbase Gc调优实践](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658358089&idx=1&sn=42c9caac6e58758c90006b603655d30a)
 
 - [高吞吐、低延迟 Java 应用的 GC 优化实践](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247486001&idx=1&sn=1117c29a4cc6cc4a78e590bf6f6df8d6)
+
+- [电商系统的 JVM 年轻代垃圾回收参数优化](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485923&idx=1&sn=38428d30b86a4f0c5ac5ed46028a0acf&chksm=fba6e1e0ccd168f653b8013f7af215789cd938cfdebac309221f0d54b87867fec2c32cbb6f59)
+
+- [JVM 32个知识点](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485751&idx=1&sn=f36720c4ce42a4a1a6dfb7941b0d9fc8&chksm=fba6e134ccd16822bab02ae5639ff7a4707115df5a1f012eb35039524f4db79018f3dc27b4ad)
+
+- [JVM 30道题目](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485701&idx=1&sn=1557c5748b523614f2517d9db6c4d6d6&chksm=fba6e106ccd168101639b1598a93836d83bdc53df3c784018d91150b4cb5ca8bc2bb3aad1410)
+
+- [jvm验证](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485741&idx=1&sn=4ae910e096ed46038843474d18a77165&chksm=fba6e12eccd16838edc525de3d95ce6c4f2ea4be305bd050ad4ff9c717ecca5ff977d6ededf8)
+
+- [线上JVM GC问题和OOM内存溢出的解决方案](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485598&idx=1&sn=41569200fd3068a965749eadf76d9384&chksm=fba6e09dccd1698b7503a086ba97adbb4212f00b7c00c56da16dd2d8c83ec88adb10cd0132cf)
 
 ## 框架
 ### Mybaits

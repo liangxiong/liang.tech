@@ -1,5 +1,8 @@
 # 垂直业务
 
+## 通用
+- [分页](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485790&idx=1&sn=b9e9c35f20475f3423f80940d1c07b16&chksm=fba6e15dccd1684bc8d5f320f6d32e6c099abf1a2ca6e29d8a444ca17465c255c5a8653813d6)
+
 ## 支付
 - [开源支付网关](https://github.com/jigsaw-projects/jigsaw-payment)
 
@@ -29,6 +32,8 @@
 ### 秒杀
 - [秒杀系统流量如何削峰？
 ](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487183&idx=1&sn=95cae5a99999a847abb3d88ab80580a7)
+
+- [实现一个秒杀系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485450&idx=1&sn=7cbfff957d52b5f6e9e4209677c0a439&chksm=fba6e009ccd1691fc1d945ded1ad3c67aaf6ea7456864db95f43537650155efb5307d76cea8f)
 
 ### 胶水语言 做高效的后端开发
 - [闲鱼，我们如何用Dart做高效后端开发](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247484507&idx=1&sn=ad99cbfe9b27f3dccefab869e8f28688&chksm=fd54d04aca23595cdf0785e06061bcb995ee5e7572870a49a7b671dda1a8eec9e082d867c228)

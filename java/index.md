@@ -49,7 +49,7 @@
 #### JVM 底层原理
 - [数据区 ](https://www.jianshu.com/p/3635b80d7783?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-timeline&from=timeline&isappinstalled=0)
 
--[垃圾回收原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485185&idx=1&sn=298d1a994b7bf791ddbad5c691a92a53)
+- [垃圾回收原理](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485185&idx=1&sn=298d1a994b7bf791ddbad5c691a92a53)
 
 - [Lombok使用及原理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487090&idx=1&sn=7dd3dd6a5b950ec3edad6c379147b8e6)
 

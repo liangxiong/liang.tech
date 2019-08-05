@@ -5,11 +5,7 @@
 - [淘宝的14次架构演进之路](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485427&idx=1&sn=35a1d4d4bc8a96ecb5e841bea2cc1102&chksm=fba6eff0ccd166e6c048741bec01d8979b2be277f6abd38996e0aed2e2f887559dd61f693c71)
 
 ## 名人笔记
-
-- [石杉2018架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484866&idx=2&sn=f35d12b68b349105df44313cb397a572)
-
-
-- [石杉2019架构笔记](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484844&idx=2&sn=c0f2751ee2c298180957f9081c218233)
+- [ 朱小厮的2017-2019技术笔记](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247486491&idx=1&sn=da24730143d02a1676dabc2a023261ed&chksm=fb0be68fcc7c6f995ab258008fbe98d3ee0757a31e5281d71b0f3984c12146c8df7361a36687&scene=0&xtrack=1&key=3d1acede8a6f96ce30ea73f6c1ce213e016ea0a0b892902f32312fc96ffcf2107e9fb9fd4d78013d26f55ff7787836e5ef382ace9eb1f8f8d00f6f29ac7513970603f3f25b9ad3fcfb0eb01f25fedb33)
 
 - [行癫：最详解密阿里云顶层设计和底层逻辑](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031766&idx=1&sn=3ec5cdbe16cee006e590fb84296c537b)
 

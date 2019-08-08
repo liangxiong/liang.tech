@@ -46,6 +46,10 @@
 
 - [RocketMQ中分布式事务源码剖析](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485714&idx=1&sn=0de43536f977ef8ce5a9752cfbf2a49f&chksm=fba6e111ccd16807436978c4cda251525fd23987ec32832165bd1b87759fb59833a2825ffd17)
 
+### RocketMQ 使用场景
+- [网易云音乐的消息队列改造之路
+](https://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247485357&idx=1&sn=40c7b34f038225379aa98d49f75c0c44&chksm=ec3c9acadb4b13dc265413e99df85a1a432d5abf1662d8d406b94cf9563e3335193cc5ced93a&mpshare=1&scene=1&srcid=&sharer_sharetime=1565274910099&sharer_shareid=8e682eed63e0c3dc5350dc02cefd65a3&key=39e8dcac62579260e2476b5ccf2368397a467460f9bd7eb11ff7413aa75c09e55b51793ed25f3084378898e7f05c7e5d020c9cea18fca8440ce1d050eeee2a49238b01876c66dd744377546cd4572bef)
+
 ## 后端学习
 - [Java后端开发之路] (https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485232&idx=1&sn=fafa6555732080d5493b5c115e4987ab&chksm=fba6ef33ccd166255be4274cb57c0065c82789250bb90148fdb016a4561ed37f24eb389c30be)
 

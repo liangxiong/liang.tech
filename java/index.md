@@ -1,10 +1,20 @@
 # 语言
+
+## Java 基础
+- [Java 基础](https://github.com/liangxiong/liang.tech/blob/master/java/基础/index.md)
+
+
+
 ## Java
 - [JAVA核心知识点整理](https://github.com/liangxiong/liang.tech/blob/master/java/JAVA核心知识点整理.pdf)
 
+- [设计概念的统一语言：xo的定义](https://github.com/liangxiong/liang.tech/blob/master/java/工程/xo.md)
+
+- [代码分层](https://github.com/liangxiong/liang.tech/blob/master/java/工程/module.md)
+
+
 
 ### Java 原理
-
 - [hashcode 和 hash 算法](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485906&idx=1&sn=5e4bb668532642b162e718cb2b1a27a4&chksm=fba6e1d1ccd168c70ee342b6640bc7355d472498d766e2ce389e434a4441bd1ac1d065a9407c)
 
 - [java随机数的原理](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484717&idx=1&sn=2c49b618b24f3fb92847313e5dfad957)

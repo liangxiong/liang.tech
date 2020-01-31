@@ -7,6 +7,7 @@
 ### mysql 基本知识
 - [mysql原理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487162&idx=1&sn=1fa54be6b0822bf6d68d2bc78c683d55)
 
+- [索引](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/inx.md)
 - [事物 隔离级别](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/transactions.md)
 
 - [深度剖析 MySQL 事务隔离！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485509&idx=1&sn=b964f5bdd464690d7e6827128baa39ba&chksm=fba6e046ccd169506c350506cb59b2caaabdadd8504c4fa82cf5ea828267f3caae5af0af27c7)

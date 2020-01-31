@@ -14,6 +14,7 @@
   - [GO语言](https://github.com/liangxiong/liang.tech/blob/master/go/go_index.md)
   - [领域文章查看](https://github.com/liangxiong/liang.tech/blob/master/ddd.md)
 
+  - [实战经验](https://github.com/liangxiong/liang.tech/blob/master/actual.md)
 
 - [程序员的职业成长](https://github.com/liangxiong/liang.tech/blob/master/career/index.md)
 

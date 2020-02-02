@@ -46,11 +46,10 @@
 ### 类加载器
 - [JVM类加载机制](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485642&idx=1&sn=14542b61ed71e94732f71ab4956049d4&chksm=fba6e0c9ccd169df1329d12712db786076d1da4aaed6a07dca6d45ef3321d6ac6ab27485ad77)
 
-### Java 8
-- [Java8的Predicate](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650798072&idx=1&sn=583708b456a03af7186937e8e8f8e8ee)
-
-
 ### Jvm 相关
+- [Jvm 参数](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/参数.md)
+- [垃圾回收类型](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/垃圾回收类型.md)
+
 
 #### Jvm 工具
 - [Arthas官网](https://github.com/alibaba/arthas)

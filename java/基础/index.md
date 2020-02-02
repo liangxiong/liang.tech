@@ -1,8 +1,17 @@
 # 基础
+- [字符串](https://github.com/liangxiong/liang.tech/blob/master/java/基础/string.md)
 
 - [注解](https://github.com/liangxiong/liang.tech/blob/master/java/基础/annotation.md)
 
 - [ShutdownHook 关闭钩子](https://github.com/liangxiong/liang.tech/blob/master/java/基础/ShutdownHook.md)
+
+## jvm
+- [参数](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/参数.md)
+
+- [垃圾回收类型](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/垃圾回收类型.md)
+
+- [常量池](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/常量池.md)
+
 
 
 ## java8 新特性
@@ -24,3 +33,6 @@
 
 - 接口默认方法：
   - default参数
+
+## 线程
+- [线程](https://github.com/liangxiong/liang.tech/blob/master/java/基础/线程/thread.md)

@@ -1,0 +1,17 @@
+# unix 目录说明
+- bin
+- sbin
+- home 存放用户的数据
+- tmp
+- lib
+- usr 存放 unix 系统商 比如 IBM/HP开发的程序
+  - bin
+  - sbin
+  - local 存放用户自己安装的程序
+    - bin
+    - sbin
+- var
+- etc
+- opt (option) 存放第三方厂商开发的程序
+  - bin
+  - sbin

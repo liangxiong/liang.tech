@@ -5,6 +5,8 @@
 
 - [ShutdownHook 关闭钩子](https://github.com/liangxiong/liang.tech/blob/master/java/基础/ShutdownHook.md)
 
+- [finalize](https://github.com/liangxiong/liang.tech/blob/master/java/基础/finalize.md)
+
 ## jvm
 - [参数](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/参数.md)
 

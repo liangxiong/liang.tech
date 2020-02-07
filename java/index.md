@@ -13,6 +13,25 @@
 - [代码分层](https://github.com/liangxiong/liang.tech/blob/master/java/工程/module.md)
 
 
+### Jvm 相关
+- [Jvm 参数](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/参数.md)
+- [垃圾回收类型](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/垃圾回收类型.md)
+
+- [堆内存](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/堆内存.md)
+- [堆外内存](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/堆外内存.md)
+- [永久区](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/永久区.md)
+- [奔溃文件](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/奔溃文件.md)
+
+- [MinorFullGC](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/MinorFullGC.md)
+
+#### GC
+- [G1](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/GC/G1.md)
+
+### 设计
+- [对象池](https://github.com/liangxiong/liang.tech/blob/master/java/设计/对象池.md)
+
+
+
 
 ### Java 原理
 - [hashcode 和 hash 算法](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485906&idx=1&sn=5e4bb668532642b162e718cb2b1a27a4&chksm=fba6e1d1ccd168c70ee342b6640bc7355d472498d766e2ce389e434a4441bd1ac1d065a9407c)
@@ -46,9 +65,6 @@
 ### 类加载器
 - [JVM类加载机制](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485642&idx=1&sn=14542b61ed71e94732f71ab4956049d4&chksm=fba6e0c9ccd169df1329d12712db786076d1da4aaed6a07dca6d45ef3321d6ac6ab27485ad77)
 
-### Jvm 相关
-- [Jvm 参数](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/参数.md)
-- [垃圾回收类型](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/垃圾回收类型.md)
 
 
 #### Jvm 工具

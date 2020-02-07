@@ -1,0 +1,14 @@
+# 永久区 Permanent Generation Space
+
+- 作用：
+  - 永久保存去
+  - 用于存放 Class 和 Meta 信息
+  - Class 被加载时候放入
+- 区别：
+  - JDK7 移出了3种数据
+    - APPLID 这样的符号（Symbls）移到了本地堆区
+    - 内部字符串被移到 堆区
+    - 类静态属性被移到 堆区
+  - JDK7 使用G1 GC 永久区只有 Full GC 阶段才被回收
+    - 满了 或 生产速度大于回收速度
+  - JDK8 使用本地化的内存空间来存放类的元数据

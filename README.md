@@ -4,6 +4,7 @@
 
 如果发现收集文章不真实，会另外写笔记 或从目录中删除
 
+
 - [技术文章查看](https://github.com/liangxiong/liang.tech/blob/master/p.md)
   - [java](https://github.com/liangxiong/liang.tech/blob/master/java/index.md)
   - [大数据](https://github.com/liangxiong/liang.tech/blob/master/big_data/index.md)
@@ -15,6 +16,8 @@
   - [领域文章查看](https://github.com/liangxiong/liang.tech/blob/master/ddd.md)
 
   - [常用命令](https://github.com/liangxiong/liang.tech/blob/master/常用命令.md)
+
+  - [开源项目](https://github.com/liangxiong/liang.tech/blob/master/开源项目/index.md)
 
 - [程序员的职业成长](https://github.com/liangxiong/liang.tech/blob/master/career/index.md)
 

@@ -3,6 +3,7 @@
 ## Stop the World
 - 停止所有的应用程序线程执行
 
+
 ## Minor GC
 ![MinorGC工作原理图](https://github.com/liangxiong/liang.tech/blob/master/java/jvm/res/MinorGC工作原理图.jpg)
 

@@ -110,10 +110,6 @@ if C or D then
 - 代码可测试性
 - 代码可重构
 
-### todo:
-- 梳理好 tvtao，tvtaos，tvtaoadmin 的单元测试
-- 用例谁来写：对交付结果，业务和产品 熟悉，理解深刻的人。开发自己写
-
 ### 参考：
 https://en.wikipedia.org/wiki/Test-driven_development
 https://www.atajtnw.org/articles/98850

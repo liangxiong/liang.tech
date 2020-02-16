@@ -1,13 +1,16 @@
 # 大数据
 
-
-## 社会意义
-- [智能时代，吴军](https://github.com/liangxiong/liang.tech/blob/master/big_data/24_design_pattern/books/wujun_intelligent_age.md)
-
 ## 基础
 - [函数](https://github.com/liangxiong/liang.tech/blob/master/big_data/基础/函数.md)
 
 - [特殊sql](https://github.com/liangxiong/liang.tech/blob/master/big_data/基础/特殊sql.md)
+
+## Odps
+- [增删改查语句](https://github.com/liangxiong/liang.tech/blob/master/big_data/odps/crud.md)
+
+## 社会意义
+- [智能时代，吴军](https://github.com/liangxiong/liang.tech/blob/master/big_data/24_design_pattern/books/wujun_intelligent_age.md)
+
 
 
 

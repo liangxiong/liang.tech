@@ -13,8 +13,11 @@
 - 触发器：”调度器” 和 ”触发器” 两个解耦的中间对象，只是一个逻辑对象
 
 ## 架构
+![架构图](https://github.com/liangxiong/liang.tech/raw/master/开源项目/任务调度/xxl-job/res/diagram.jpg)
+
 - [架构图](https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/res/diagram.jpg)
 <img src = 'http://res.liang3307.tech/liang.tech/开源项目/任务调度/xxl-job/res/diagram.jpg'>
+
 
 - 任务调度通讯流程
   - “调度中心” 向 “执行器” 发送 调度请求

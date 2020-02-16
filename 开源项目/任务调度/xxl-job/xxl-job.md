@@ -3,19 +3,20 @@
 ## 概要
 - [官网 https://www.xuxueli.com/xxl-job/](https://www.xuxueli.com/xxl-job/)
 
-- 任务调度中心:
-  - 任务统一由调度中心集中管理，统一下发
+- 分布式任务调度:
+  - 任务统一由调度中心 集中管理，统一下发到 "执行器" 执行
   - 通过负载均衡策略，执行者收到消息执行
 
 ### 名词解释
-- 调度中心：下发任务
-- 执行器： 干活的
-- 触发器：调度中心和触发器 两个解耦的中间对象
+- 调度器：下发任务，是一个应用
+- 执行器：干活的，是一个应用
+- 触发器：”调度器” 和 ”触发器” 两个解耦的中间对象，只是一个逻辑对象
 
 ## 架构
 - 架构图(https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/res/diagram.jpg)
+<img src = 'http://res.liang3307.tech/liang.tech/开源项目/任务调度/xxl-job/res/diagram.jpg'>
 
--  任务调度通讯流程
+- 任务调度通讯流程
   - “调度中心” 向 “执行器” 发送 调度请求
   - “执行器” 接收请求: 底层使用 xxl_rpc
   - “执行器” 执行任务逻辑
@@ -24,11 +25,11 @@
 
 ### 调度中心业务组件
 
-#### CRON定时任务调度
+#### CRON任务 线程
 - 计算任务何时执行
 - 执行过程：
-  - 后台操作：任务状态打开，通过配置的cron表达式下一次计算的时间
-  - 调度获取5秒内要执行的任务
+  - 后台操作：任务状态是打开情况下，通过配置的cron表达式计算下一次运行的时间
+  - "调度器" 获取5秒内要执行的任务
   - 下发到调度中心触发器队列
   - 重新计算下次执行的时间
 
@@ -36,7 +37,7 @@
 - 关键计算参考：new CronExpression(cron).getNextValidTimeAfter(fromTime);
 
 #### 调度中心触发器线程
-- 业务由他执行
+- 业务由他下发到 "执行器"
 - 线程类：JobTriggerPoolHelper
   - fastTriggerPool: 快速触发
     - 200个线程
@@ -105,22 +106,21 @@
 #### 执行器：
 - 通过部署多台解决，“调度器” 使用负载均衡策略下发执行任务到不同 “执行器”
 
-### 安全性：
+### 安全性：他的重点没在这
 - rpc 通讯数据: 使用Hessian1Serializer Hessian2Serializer
   - 使用RequestModel和ResponseModel两个对象封装调度请求参数和响应数据
 
-- http 通讯：有一点作用，他的重点没在这
+- http 通讯：有一点作用
   - 访问令牌（AccessToken）
 
 ### 整体问题
 - 数据由于放到内存队列中，极端情况下会出现数据丢失
 
-
 ## 关键技术点：
 
 ### 代码 运行模式
 - GLUE模式(Java)
-  - 动态编译写的代码：groovyClassLoader.parseClass(codeSource);
+  - 动态编译代码：groovyClassLoader.parseClass(codeSource);
   - spring 注入：[SpringGlueFactory.injectService](https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/code/SpringGlueFactory.java)
 
 - GLUE模式(Shell) + GLUE模式(Python) + GLUE模式(NodeJS)
@@ -154,10 +154,8 @@ thread.join(); \\等待执行完
   - 利用： tailMap(jobHash).firstKey()
 - 最不经常使用 ExecutorRouteLFU
   - 算次数
-
 - 最近最久未使用 ExecutorRouteLRU
   - 使用 LinkedHashMap
-
 - 故障转移 ExecutorRouteFailover
   - 选择地址先进行 beat
 - 忙碌转移 ExecutorRouteBusyover

@@ -42,7 +42,6 @@ public class SpringGlueFactory extends GlueFactory {
             Object fieldBean = null;
             // with bean-id, bean could be found by both @Resource and @Autowired, or bean could only be found by @Autowired
 
-
             if (AnnotationUtils.getAnnotation(field, Resource.class) != null) {
                 try {
                     Resource resource = AnnotationUtils.getAnnotation(field, Resource.class);

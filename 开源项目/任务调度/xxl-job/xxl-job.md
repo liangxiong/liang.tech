@@ -1,11 +1,12 @@
 # xxl-job
-
-## 概要
 - [官网 https://www.xuxueli.com/xxl-job/](https://www.xuxueli.com/xxl-job/)
+
+
+## 一句话了解
 
 - 分布式任务调度:
   - 任务统一由调度中心 集中管理，统一下发到 "执行器" 执行
-  - 通过负载均衡策略，执行者收到消息执行
+  - 通过负载均衡策略，"执行器" 收到消息执行
 
 ### 名词解释
 - 调度器：下发任务，是一个应用
@@ -119,7 +120,7 @@
 
 ### 代码 运行模式
 - GLUE模式(Java)
-  - 动态编译代码：groovyClassLoader.parseClass(codeSource);
+  - 实时编译生效：groovyClassLoader.parseClass(codeSource);
   - spring 注入：[SpringGlueFactory.injectService](https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/code/SpringGlueFactory.java)
 
 - GLUE模式(Shell) + GLUE模式(Python) + GLUE模式(NodeJS)

@@ -10,7 +10,7 @@
 - 兼容Spring：GLUE代码中支持@Resource和@Autowired两种方式注入Spring容器中服务
 
 ## 架构
-![一图了解](http://res.liang3307.tech/liang.tech/开源项目/动态规则/xxl-glue/res/diagram.jpg)
+![一图了解](https://github.com/liangxiong/liang.tech/blob/master/开源项目/动态规则/xxl-glue/res/diagram.jpg)
 
 ## 使用场景
 ### 日常场景：

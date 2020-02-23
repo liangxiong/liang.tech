@@ -16,7 +16,6 @@
 ## 架构
 ![架构图](https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/res/diagram.jpg)
 
-
 - 任务调度通讯流程
   - “调度中心” 向 “执行器” 发送 调度请求
   - “执行器” 接收请求: 底层使用 xxl_rpc

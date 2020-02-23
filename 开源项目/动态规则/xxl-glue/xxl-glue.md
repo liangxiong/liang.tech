@@ -10,7 +10,7 @@
 - 兼容Spring：GLUE代码中支持@Resource和@Autowired两种方式注入Spring容器中服务
 
 ## 架构
-![简图](https://github.com/liangxiong/liang.tech/raw/master/开源项目/动态规则/xxl-glue/res/diagram.jpg)
+![简图](http://res.liang3307.tech/liang.tech/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%99/xxl-glue/res/diagram.jpg)
 
 ## 使用场景
 ### 日常场景：
@@ -29,7 +29,7 @@
   - 场景：做业务 ”编排” 使用
 
 ## 关键技术点
-### 实时编译生效：groovyClassLoader.parseClass(codeSource);
+### 实时编译生效：GroovyClassLoader.parseClass(codeSource);
 - spring 注入：[SpringGlueFactory.injectService](https://github.com/liangxiong/liang.tech/blob/master/开源项目/任务调度/xxl-job/code/SpringGlueFactory.java)
 
 ### GroovyClassLoader 导致的 Permanet Generation空间被占满引起的Full GC
@@ -43,4 +43,5 @@
 - 调试：把代码从数据库下载到工程的 resources/config/glue/xxxx.groovy
   - 和平时一样的启动调试的handler + “断点”
 
-### [zookeeper] (https://github.com/liangxiong/liang.tech/blob/master/开源项目/协调/zookeeper/zookeeper.md)
+### zookeeper
+[zookeeper](https://github.com/liangxiong/liang.tech/blob/master/开源项目/协调/zookeeper/zookeeper.md)

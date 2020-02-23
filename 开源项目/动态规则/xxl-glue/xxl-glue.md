@@ -12,6 +12,8 @@
 ## 架构
 ![一图了解](http://res.liang3307.tech/liang.tech/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%99/xxl-glue/res/diagram.jpg)
 
+<img src = "http://res.liang3307.tech/liang.tech/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%99/xxl-glue/res/diagram.jpg">
+
 ## 使用场景
 ### 日常场景：
 - 给运营提供的临时数据处理

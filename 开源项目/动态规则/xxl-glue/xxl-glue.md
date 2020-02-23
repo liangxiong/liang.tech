@@ -14,7 +14,7 @@
 
 ## 使用场景
 ### 日常场景：
-- 给运营提供的临时数据处理，下载
+- 给运营提供的临时数据处理
 - 大触期间的 临时开关
 
 ### 三种常用模式
@@ -44,4 +44,4 @@
   - 和平时一样的启动调试的handler + “断点”
 
 ### zookeeper
-[zookeeper](https://github.com/liangxiong/liang.tech/blob/master/开源项目/协调/zookeeper/zookeeper.md)
+- [zookeeper](https://github.com/liangxiong/liang.tech/blob/master/开源项目/协调/zookeeper/zookeeper.md)

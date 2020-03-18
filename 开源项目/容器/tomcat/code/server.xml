@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+Server是一个顶级组件，代表了一个Tomcat实例，一个JVM进程中只能有一个Server实例。
+Tomcat提供了一个实现了 org.apache.catalina.Server接口的 org.apache.catalina.core.StandardServer默认类，读取Server元素配置。
+
+Server是配置文件中的最外层元素，支持以下属性：
+      className：指定要使用的实现类（必须实现org.apache.catalina.Server接口）名称。如果不指定，默认使用标准实现类StandardServer。
+      address：等待shutdown命令的服务器IP地址，默认是localhost。
+      port：等待shutdown命令的监听端口，如果设置为-1，表示关闭shutdown端口。
+      shutdown：指定终止Tomcat服务器运行时,发给Tomcat服务器的shutdown监听端口的字符串.该属性必须设置 。
+-->
+<Server port="8015" shutdown="SHUTDOWN">
+    <Listener className="org.apache.catalina.startup.VersionLoggerListener"/>
+    <Listener className="org.apache.catalina.core.AprLifecycleListener" SSLEngine="on"/>
+    <Listener className="org.apache.catalina.core.JasperListener"/>
+    <Listener className="org.apache.catalina.core.JreMemoryLeakPreventionListener"/>
+    <Listener className="org.apache.catalina.mbeans.GlobalResourcesLifecycleListener"/>
+    <Listener className="org.apache.catalina.core.ThreadLocalLeakPreventionListener"/>
+
+    <!--定义的全局JNDI资源-->
+    <GlobalNamingResources>
+        <Resource name="UserDatabase" auth="Container"
+                  type="org.apache.catalina.UserDatabase"
+                  description="User database that can be updated and saved"
+                  factory="org.apache.catalina.users.MemoryUserDatabaseFactory"
+                  pathname="conf/tomcat-users.xml"/>
+    </GlobalNamingResources>
+
+    <!--Server元素中可以有一个或多个Service，每个Service关联了多个Connector和一个Engine。
+    Service支持两个属性：
+        className：指定要使用的实现类（必须实现org.apache.catalina.Service接口）名称。如果不指定，默认使用标准实现类StandardService。
+        name：Service的名称，在同一个Server元素中必须唯一，默认是Catalina。
+    -->
+    <Service name="Catalina">
+
+        <!--Connector负责处理请求监听，一个Connector与一个TCP端口绑定，接受请求并将请求封装成Request和Response，Service中默认包含两个Connector。
+            Connector支持四个属性：
+                port：属性指定监听端口，默认8080端口，可修改为1024-65535间的任意一个端口
+                protocol：支持协议
+                connectionTimeout：定义连接器等待时间，默认20秒
+                redirectPort：SSL请求会重定向到8443端口
+        -->
+        <!--HTTP/1.1：处理HTTP请求，此连接器使Tomcat可以作为HTTP服务器使用。-->
+        <Connector port="8090" protocol="HTTP/1.1" connectionTimeout="20000" redirectPort="8453"/>
+        <!--AJP/1.3：Apache JServ 协议处理Tomcat与Apache之间的通信。Tomcat核心功能是解析Servlet，html和图片解析功能相对其他HTTP服务器较弱（如Apache HTTP Server），所以，一般都是集成使用，Apache处理静态页面请求，Tomcat处理Servlet/JSP请求。-->
+        <Connector port="8019" protocol="AJP/1.3" redirectPort="8453"/>
+
+        <!--Container负责处理请求处理，有四个子容器：Engine、Host、Context和Wrapper，他们之间是父子包含关系。-->
+        <!--一个Service只有一个Engine，表示整个Servlet引擎，其主要作用是执行业务逻辑；从HTTP Connector接收HTTP请求，并且会根据主机名/IP地址交由相应的主机处理请求。-->
+        <Engine name="Catalina" defaultHost="localhost">
+            <Realm className="org.apache.catalina.realm.LockOutRealm">
+                <Realm className="org.apache.catalina.realm.UserDatabaseRealm" resourceName="UserDatabase"/>
+            </Realm>
+
+            <!--Host，代表一个站点，也可以叫虚拟主机，一个Engine下面可以包含一个或者多个Host，即一个Tomcat实例可以配置多个虚拟主机-->
+                <!--appBase：定义了应用程序的根目录，默认是webapps-->
+                <!--unpackWARS：定义了是否解压webapps中的WAR文件，如果指定为“false”,会从WAR文件直接运行程序，执行较慢-->
+                <!--autoDeploy：把应用程序直接拖到webapps目录下，是否自动运行-->
+            <Host name="localhost" appBase="webapps" unpackWARs="true" autoDeploy="true">
+                <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" prefix="localhost_access_log." suffix=".txt" pattern="%h %l %u %t &quot;%r&quot; %s %b"/>
+                <!--
+                Context，代表一个应用程序
+                    path：访问项目时的URL，加在localhost:8080后
+                    docBase：path对应的项目目录
+                    reloadable：监视 /WEB-INF/classes/ 和 /WEB-INF/lib目录中的类文件，更改后自动重载应用程序，
+                    生成环境不建议使用，默认为“false”
+                -->
+                <Context path="/image" docBase="/opt/file/img" reloadable="false"></Context>
+                <!--Wrapper针对的是每个具体的servlet-->
+            </Host>
+        </Engine>
+    </Service>
+</Server>
+————————————————
+版权声明：本文为CSDN博主「会飞的齐齐」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u011194572/article/details/85225218

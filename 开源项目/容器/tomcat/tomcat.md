@@ -1,5 +1,7 @@
 # tomcat
 
+- 参考：https://www.iteye.com/category/283575
+
 ## 架构
 
 - 核心组件
@@ -11,12 +13,15 @@
         - Host: 代表一个站点，也可以叫虚拟主机，通过配置Host就可以添加站点
         - Context: 代表一个应用程序
         - Wrapper: 每一Wrapper封装着一个Servlet
-
       - Jasper
       - Naming
       - Session
       - Loging
       - JMX
+
+- 执行：Logger.info
+  - callAppenders
+    - parent.appendLoopOnAppenders(ILoggingEvent)
 
 
 ### 核心类：

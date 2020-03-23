@@ -25,7 +25,7 @@
 
 - [垂直业务](https://github.com/liangxiong/liang.tech/blob/master/bu.md)
 
-- [管理文章查看](https://github.com/liangxiong/liang.tech/blob/master/manage/index.md)
+- [管理文章查看](https://github.com/liangxiong/liang.tech/blob/master/管理/index.md)
 
 - [体系目录查看](https://github.com/liangxiong/liang.tech/blob/master/system.md)
 

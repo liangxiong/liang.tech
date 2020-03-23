@@ -2,16 +2,16 @@
 # 管理
 
 ## 学习总结
-- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/manage/2019/0421.md)
+- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/管理/网络总结/20190421.md)
 
 
 ## 领导力管理
 - [面对批评时需要避免的13种态度](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/criticize_reaction.md)
 
 ## 说服力
-- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/persuasiveness.md)
+- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/管理/leadership/persuasiveness.md)
 
-- [如何跟一个孩子谈判](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/child.md)
+- [如何跟一个孩子谈判](https://github.com/liangxiong/liang.tech/blob/master/管理/leadership/child.md)
 
 ## 团队管理
 ### 管理总结
@@ -34,4 +34,4 @@
 - [把一个项目带崩的](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484979&idx=1&sn=9682355f7ed2789415796d862360f5ba)
 
 ## CTO线
-- [运满满CTO：学会享受挑战，做事儿得有要性](https://github.com/liangxiong/liang.tech/blob/master/manage/2018/0626.md)
+- [运满满CTO：学会享受挑战，做事儿得有要性](https://github.com/liangxiong/liang.tech/blob/master/管理/网络总结/20180626.md)

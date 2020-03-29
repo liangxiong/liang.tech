@@ -1,62 +1,40 @@
 # 数据库
 
-## 通用
-- [24个基础](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485460&idx=1&sn=3543e2316b811604333b2d4bbda57948&chksm=fba6e017ccd16901681a2bdd3021f7f40c54820187570d60aebe94f6211075ea6e4d99df0ba0)
-
 ## mysqL
 ### mysql 基本知识
-- [mysql原理](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487162&idx=1&sn=1fa54be6b0822bf6d68d2bc78c683d55)
+- [不同的insert](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/insert.md)
 
 - [索引](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/inx.md)
 - [事物 隔离级别](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/transactions.md)
 
-- [深度剖析 MySQL 事务隔离！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485509&idx=1&sn=b964f5bdd464690d7e6827128baa39ba&chksm=fba6e046ccd169506c350506cb59b2caaabdadd8504c4fa82cf5ea828267f3caae5af0af27c7)
+- [explain](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/explain.md)
+
+
+### 原理
+- [锁](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/lock.md)
+- [mvcc](https://github.com/liangxiong/liang.tech/blob/master/db/mysql/mvcc.md)
+
+## 规范
+- [redis使用规范](https://github.com/liangxiong/liang.tech/blob/master/管理/开发规范/redis使用规范.md)
+
+- [mysql命名规范](https://github.com/liangxiong/liang.tech/blob/master/管理/开发规范/mysql命名规范.md)
+
+## 缓存
+- [缓存常见的问题](https://github.com/liangxiong/liang.tech/blob/master/db/cache/缓存常见的问题.md)
+- [缓存淘汰策略](https://github.com/liangxiong/liang.tech/blob/master/db/cache/缓存淘汰策略.md)
+- [进程内缓存](https://github.com/liangxiong/liang.tech/blob/master/db/cache/进程内缓存.md)
+
+- [memcache安装](https://github.com/liangxiong/liang.tech/blob/master/db/cache/memcache/memcache.md)
+
+## 连接池
+- [druid SqlParse](https://github.com/liangxiong/liang.tech/blob/master/db/连接池/druid_sqlparse.md)
 
 
 ## 分库分表
+- [读写分离](https://github.com/liangxiong/liang.tech/blob/master/db/分库分表/读写分离.md)
+- [分表键的选择](https://github.com/liangxiong/liang.tech/blob/master/db/分库分表/分表键的选择.md)
+- [分库分表分析](https://github.com/liangxiong/liang.tech/blob/master/db/分库分表/分库分表分析.md)
+- [数据库中间件设计方案](https://github.com/liangxiong/liang.tech/blob/master/db/分库分表/数据库中间件设计方案.md)
 
-### 分库分表 日常总结
-- [分库分表就能无限扩容吗](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247486393&idx=1&sn=badba03f76c08a485c9b536b85814a89)
-
-- [生产中的【分表】踩坑经历](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485052&idx=1&sn=53f50a1ae3a97c7c23c859948743e03f)
-
-
-### mysql 日常总结
-- [MySQL两千万数据的大表优化解决过程](https://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247490617&idx=1&sn=d4de94a4647c9b0f725fb56abf312b8a)
-
-### mysql 业务架构实战
-- [MySQL慢日志体系建设](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247484756&idx=1&sn=28d59887f036dcae0b1a61e8d1d6c760)
-
-- [设计用户超过1亿应用的数据库调优](https://yq.aliyun.com/articles/5574)
-
-- [阿里巴巴的海量数据技术架构设计](https://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=401045357&idx=3&sn=9600145e7ffbc6fc5bfab1929b7f2d47)
-
-- [TiDB 数据库的 4 大应用场景分析](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247485495&idx=1&sn=1a7f665dd88363fc67454e72d9995d5d)
-
-- [海量分库分表技术演进，最佳实践](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484640&idx=1&sn=053ed4f608e127861a2a7b6d4f27f598)
-
-## 缓存
-### 原理
-- [分布式缓存：数据分片、数据迁移、客户端路由](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485451&idx=1&sn=bde41b32853f6fef540536ebe048d819&chksm=fba6e008ccd1691e83433918f658e29969c5b7f0a6a3e171d1a7a9399d3d16b74b4e853d4523)
-
-
-## Redis
-### 原理
-- [Redis 数据结构和对象系统](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485433&idx=1&sn=9d2d94b6d9f6e005e9d54e182bcaa8a4&chksm=fba6effaccd166ec12035b19b66e9f3db126e5d9b361458f68ec3992bb4a0b37aa5ad06a4233)
-
-- [Redis过期策略？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485788&idx=1&sn=11274fcc823a7323f55540bc41a0f3fd&chksm=fba6e15fccd1684942d624c082110a19105aa2a5cf8a8a635972986ba921bce2b83242ac23ad)
-
-### 使用案例
-- [高并发和海量数据下的9个案例剖析](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485705&idx=1&sn=ca1b92ffd58799a362fa308126083223&chksm=fba6e10accd1681ca2d1b56a5bc176f89ae8dc10e1c0a6f7d29e4b1cd2c964d7342b7e49336d)
-
-
-
-## ORM
-### mybaits
-
-#### 插件
-- [PageHelper分页插件的原理是](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487202&idx=2&sn=9c5e201efaa61e547097ee4038d19822)
-
-
-### mysql书
-- 待补充
+## 高可用
+- [mysql主从同步](https://github.com/liangxiong/liang.tech/blob/master/db/高可用/mysql主从同步.md)

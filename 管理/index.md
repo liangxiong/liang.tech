@@ -2,36 +2,66 @@
 # 管理
 
 ## 学习总结
-- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/管理/网络总结/20190421.md)
+- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/管理/网文总结/20190421.md)
 
 
-## 领导力管理
-- [面对批评时需要避免的13种态度](https://github.com/liangxiong/liang.tech/blob/master/manage/leadership/criticize_reaction.md)
+## 技术管理
+- [如何对待开源项目](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/如何对待开源项目.md)
 
-## 说服力
-- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/管理/leadership/persuasiveness.md)
+- [redis使用规范](https://github.com/liangxiong/liang.tech/blob/master/管理/开发规范/redis使用规范.md)
+- [mysql命名规范](https://github.com/liangxiong/liang.tech/blob/master/管理/开发规范/mysql命名规范.md)
 
-- [如何跟一个孩子谈判](https://github.com/liangxiong/liang.tech/blob/master/管理/leadership/child.md)
+- [分支管理](https://github.com/liangxiong/liang.tech/blob/master/管理/开发规范/分支管理.md)
 
-## 团队管理
-### 管理总结
-- [王东: 如何打造有战斗力的团队
-](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031426&idx=1&sn=b488fffb9d0313712e308e2e74a9d5a4)
-
-
-## 个人
-- [再好的技术，再完美的规章，也无法取代人自身的素质和责任心
-](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031295&idx=1&sn=70ace530739e2b7d8c392af622519c64)
-
-- [如果员工是老油条，那他的老板也是
-](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031876&idx=1&sn=7192f79887ccb24e014dbc378b58d687)
 
 ## 项目管理
+- [什么是项目](https://github.com/liangxiong/liang.tech/blob/master/管理/项目管理/什么是项目.md)
 
-## 风险管理
 
-### 项目管理日常总结
-- [把一个项目带崩的](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484979&idx=1&sn=9682355f7ed2789415796d862360f5ba)
+## 人性
+- [如何跟一个孩子谈判](https://github.com/liangxiong/liang.tech/blob/master/管理/人性/如何跟一个孩子谈判.md)
+- [怎么理解一个人](https://github.com/liangxiong/liang.tech/blob/master/管理/人性/怎么理解一个人.md)
+
+
+## 产品管理
+- [数据驱动产品和运营](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/数据驱动产品和运营.md)
+
+## 领导力管理
+- [10倍程序员工作方法](https://github.com/liangxiong/liang.tech/blob/master/管理/10_times/index.md)
+
+- [面对批评需要避免的的13态度](https://github.com/liangxiong/liang.tech/blob/master/管理/人性/面对批评需要避免的的13态度.md)
+- [什么是战略](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/什么是战略.md)
+- [初级管理者的坑](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/初级管理者的坑.md)
+- [演讲的核心点](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/演讲的核心点.md)
+
+- [职业规划问题](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/职业规划问题.md)
+- [管理技巧](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/管理技巧.md)
+- [灰色管理技巧](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/灰色管理技巧.md)
+
+
+- [招聘能力](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/招聘能力.md)
+
+
+
+
+
+
+
+
+
+## 说服力
+- [如何说服别人](https://github.com/liangxiong/liang.tech/blob/master/管理/人性/如何说服别人.md)
+- [技术人员的要求](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/技术人员的要求.md)
+
+
+
+
+
 
 ## CTO线
-- [运满满CTO：学会享受挑战，做事儿得有要性](https://github.com/liangxiong/liang.tech/blob/master/管理/网络总结/20180626.md)
+- [运满满CTO：学会享受挑战，做事儿得有要性](https://github.com/liangxiong/liang.tech/blob/master/管理/网文总结/20180626.md)
+
+
+## 小工具
+- [markdown](https://github.com/liangxiong/liang.tech/blob/master/管理/小工具/markdown.md)
+- [代码行数统计](https://github.com/liangxiong/liang.tech/blob/master/管理/小工具/代码行数统计.md)

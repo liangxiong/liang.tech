@@ -1,5 +1,9 @@
 # 微服务
 
+## 部署
+- [微服务部署种类](https://github.com/liangxiong/liang.tech/blob/master/micro_service/部署/微服务部署种类.md)
+- [JSON不适合做配置语言](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650082846&idx=3&sn=03d634144300ba71b37f86c8df52a6d0&chksm=bedad57089ad5c66c271f993f7f81e9ccfe8eb39193aef5a357d74b807e1e24237c20676904f&scene=0&key=a55472677b369124b9a0a83dd2d299e3d1d6e6a9b1e06aa8371a283162f799dd6d2e9afa0c7e5a5351affdff06eeb1fa143de36e89f5f6d971461c2944a1f066e73a1b4d8815b6a4b24be9c128ad3da0)
+
 ## RPC
 ### Dubbo
 -[Dubbo 的原理](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651032242&idx=1&sn=c725c9e996885dce686c53f378de1f52&chksm=8c4c5fb6bb3bd6a0b8b57454026497a7f951b7cade1a0d4488391bd6221c0e0473cab38d556f)
@@ -8,16 +12,20 @@
 - [Dubbo 服务启动要过程](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485785&idx=1&sn=d0c9f25b7c470228685d15b98eec14b4&chksm=fba6e15accd1684c2f047ab3f3038ffb9e02b587a1c288a894166bf7a69b90a1fccce3677779)
 
 
-
 ## 网关
+- [nginx](https://github.com/liangxiong/liang.tech/blob/master/micro_service/网关/nginx.md)
 
 ### 网关日常总结
 - [微服务架构之 网关](https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247487206&idx=2&sn=e088fba1d5f3ed617b9fa565e4bcdd76)
+
+- [Envoy为什么能战胜Ngnix——线程模型分析篇](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653550028&idx=1&sn=eced5eb129ca32a5b9b3daa6b3f01078&chksm=813a6454b64ded429914952882eb5127d45d4ecadd10d58c86553503e1a1da2ec393e0075836&scene=0&key=2b6f9a12891ea20aefc5d0dba41833ef8c2f3c4e57855ea98941a930851b2a019bf440529646f374916615e347dd4d2433641a4d0eb3ad0c81f0200ad81229546ca960162999376b5869403973f71270)
 
 - [架构修炼之道 | 一个传统网关系统有几种 “死” 法
 ](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031833&idx=1&sn=5c26363e02c2a500383f5396edad3e8b)
 
 - [Spring Cloud Zuul ](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247485728&idx=1&sn=7d132fd1cb8f2d34d55d884b38010194&chksm=fba6e123ccd168355bb00f25787237f29458811d2c43885830f0a3e27772dce42d795bc4a9cc)
+
+- [微服务接口限流的设计与思考](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651008444&idx=1&sn=a579c3ceb143ea30930bd4c6d4a8d7e2&chksm=bdbed5ef8ac95cf93e71c5393f08e3b97a7e19e8232ce3872231f2cae74f7a19ab15501aeb44&scene=0&key=5fcec68271b32b0cddb14313f44424c17a411bdb3e8a852d69721766d04f7ace533c0dc5f50e6a08718be16fdc30f7846804a95a3bcac4af09d344de528f5ceb05d4b4349eeb484e3afbd0f958ef7898)
 
 ## 注册中心
 

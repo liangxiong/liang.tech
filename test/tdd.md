@@ -110,6 +110,13 @@ if C or D then
 - 代码可测试性
 - 代码可重构
 
+- 病灶:
+  - 团队成员没有写测试的习惯，没有意识到写测试的重要性，不想写
+  - 代码难以测试，不会写
+  - 赶进度，没时间写
+
+
+
 ### 参考：
 https://en.wikipedia.org/wiki/Test-driven_development
 https://www.atajtnw.org/articles/98850

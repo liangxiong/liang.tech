@@ -17,7 +17,9 @@
 ## 功能
 
 - @EqualsAndHashCode：实现equals()方法和hashCode()方法 @ToString：实现toString()方法
--@Data ：注解在类上；提供类所有属性的 getting 和 setting 方法，此外还提供了equals、canEqual、hashCode、toString 方法
+- @Data ：注解在类上；
+  - 提供类所有属性的 getting 和 setting 方法，
+  - 此外还提供了equals、canEqual、hashCode、toString 方法
 
 - @Setter：注解在属性上；为属性提供 setting 方法
 - @Getter：注解在属性上；为属性提供 getting 方法
@@ -29,13 +31,11 @@
 - @NonNull: 避免空指针
 
 ## 原理
-- 1)javac对源代码进行分析，生成一棵抽象语法树(AST)
-- 2)运行过程中调用实现了"JSR 269 API"的 lombok 程序
-- 3)此时lombok 程序就第一步骤得到的抽象语法树(AST)处理，生产get，set方法
-- 4)javac使用修改后的抽象语法树(AST)生成字节码文件
-
-
-
+- https://mp.weixin.qq.com/s/h_QzxaYksVjR9PAIOzgfJQ
+- javac对源代码进行分析，生成一棵抽象语法树(AST)
+- 运行过程中调用实现了"JSR 269 API"的 lombok 程序
+- 此时lombok 程序就第一步骤得到的抽象语法树(AST)处理，生产get，set方法
+- javac使用修改后的抽象语法树(AST)生成字节码文件
 
 
 ## 优缺点

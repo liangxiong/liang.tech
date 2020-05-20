@@ -6,7 +6,7 @@
 
 - 配置 vim /etc/exports，在文件最后写入：
 ```
-home/user/folder  172.168.30.0/24(rw,sync,no_root_squash,no_subtree_check)
+/home/user/folder  172.168.30.0/24(rw,sync,no_root_squash,no_subtree_check)
 ```
 
 - 服务端配置参数

@@ -1,0 +1,5 @@
+InnoDB的表空间 还不清楚，https://juejin.im/book/5bffcbc9f265da614b11b731/section/5c061ac46fb9a049e66003f2
+
+InnoDB统计数据： 有关 Segment Header 部分不清楚  https://juejin.im/book/5bffcbc9f265da614b11b731/section/5c138bb16fb9a049d81bbd10
+
+optimizer trace 表的神奇功效  不清楚  https://juejin.im/book/5bffcbc9f265da614b11b731/section/5c061b675188252bf829d560

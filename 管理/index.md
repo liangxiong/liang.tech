@@ -4,6 +4,7 @@
 ## 学习总结
 - [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/管理/网文总结/20190421.md)
 
+- [怎么做好自己，我从德鲁克身上学了什么](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/研发上的总结与思考.md)
 
 ## 技术管理
 - [如何对待开源项目](https://github.com/liangxiong/liang.tech/blob/master/管理/总结/如何对待开源项目.md)

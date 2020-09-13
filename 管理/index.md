@@ -42,6 +42,9 @@
 
 - [招聘能力](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/招聘能力.md)
 
+## 时间管理
+- [节奏感](https://github.com/liangxiong/liang.tech/blob/master/管理/时间管理/节奏感.md)
+
 
 
 

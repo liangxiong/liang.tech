@@ -2,7 +2,8 @@
 
 ## 核心类
 - scheduler
--
+- TimerThread
+- LauncherThread
   - 执行：TaskExecutor
     - thread
     - task

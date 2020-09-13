@@ -4,6 +4,9 @@
 ## DDL
 
 
+### 增加数据
+insert into project.table_name partition (ds) values ('1', GETDATE(), GETDATE(), '2');
+
 
 ### 删除数据
 - 非分区表

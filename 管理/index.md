@@ -40,11 +40,16 @@
 - [灰色管理技巧](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/灰色管理技巧.md)
 
 
-- [招聘能力](https://github.com/liangxiong/liang.tech/blob/master/管理/领导力/招聘能力.md)
 
 ## 时间管理
 - [节奏感](https://github.com/liangxiong/liang.tech/blob/master/管理/时间管理/节奏感.md)
 
+## 招聘
+- [招聘能力](https://github.com/liangxiong/liang.tech/blob/master/管理/招聘/候选人能力.md)
+
+
+## 结构化思维
+- [xmind基础概念](https://github.com/liangxiong/liang.tech/blob/master/管理/结构化思维/xmind/概念.md)
 
 
 
